@@ -4,7 +4,7 @@ const SolinftecIconMapping = {
 }
 
 if(module.exports) {
-  export default SolinftecIconMapping
+  module.exports = SolinftecIconMapping
 } else {
   window["SolinftecIconMapping"] = SolinftecIconMapping
 }

@@ -3,4 +3,9 @@ const SolinftecIconMapping = {
   alert: {x: 32, y: 0, width: 32, height: 32, mask: true}
 }
 
-export default SolinftecIconMapping
+if(module.exports) {
+  export default SolinftecIconMapping
+} else {
+  window["SolinftecIconMapping"] = SolinftecIconMapping
+}
+

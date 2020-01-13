@@ -176,6 +176,7 @@
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
             <key type="filename">alarm.png</key>
+            <key type="filename">attention.png</key>
             <key type="filename">danger.png</key>
             <key type="filename">plus.png</key>
             <struct type="IndividualSpriteSettings">

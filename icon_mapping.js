@@ -5,4 +5,4 @@ const SolinftecIconMapping = {
   plus: {x: 96, y: 0, width: 32, height: 32, mask: true}
 }
 
-window["SolinftecIconMapping"] = SolinftecIconMapping
+export default SolinftecIconMapping

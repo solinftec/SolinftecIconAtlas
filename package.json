@@ -1,0 +1,19 @@
+{
+  "name": "solinfteciconatlas",
+  "version": "1.0.0",
+  "description": "Projeto criado para fornecer um dataset de icones compativeis com deck.gl.  O mapeamento da posição dos ícones está no arquivo icon_mapping.js.",
+  "main": "icon_mapping.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solinftec/SolinftecIconAtlas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solinftec/SolinftecIconAtlas/issues"
+  },
+  "homepage": "https://github.com/solinftec/SolinftecIconAtlas#readme"
+}

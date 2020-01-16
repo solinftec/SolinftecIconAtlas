@@ -179,6 +179,7 @@
             <key type="filename">attention.png</key>
             <key type="filename">danger.png</key>
             <key type="filename">plus.png</key>
+            <key type="filename">warning.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
